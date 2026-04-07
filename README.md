@@ -4,9 +4,9 @@ Bienvenido al repositorio oficial de **AstroBank Mobile**, la aplicación defini
 
 ## 📖 Tabla de Contenidos
 
-1. [Características Principales](#✨-características-principales)
-2. [Instalación](#🚀-instalación)
-3. [Contribución](#🤝-contribución)
+1. [Características Principales](#características-principales)
+2. [Instalación](#instalación)
+3. [Contribución](#contribución)
 
 ## ✨ Características Principales
 
