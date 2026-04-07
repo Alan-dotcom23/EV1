@@ -1,6 +1,4 @@
-# 🚀 AstroBank Mobile
-
-Bienvenido al repositorio oficial de **AstroBank Mobile**, la aplicación definitiva para la gestión de finanzas intergalácticas y criptomonedas.
+#  Astro Bank
 
 ## 📖 Tabla de Contenidos
 
@@ -10,11 +8,14 @@ Bienvenido al repositorio oficial de **AstroBank Mobile**, la aplicación defini
 
 ## ✨ Características Principales
 
-* **Seguridad Cuántica:** Tus fondos están protegidos por cifrado de última generación.
-* **Transferencias Instantáneas:** Envía *SpaceCoins* a cualquier galaxia en milisegundos.
-* **Soporte Multi-moneda:** Compatible con:
-  * Bitcoin (BTC)
-  * Ethereum (ETH)
-  * Andromeda Credits (ANC)
+* **Seguridad Cuántica:** Tus datos están seguros (agrega el resto de tu texto aquí).
 
-Para más detalles sobre las reglas de este repositorio, consulta nuestra Política de Seguridad y nuestra Licencia.
+* **Otra característica:** Agrega más detalles aquí.
+
+## 🚀 Instalación
+
+Escribe aquí las instrucciones de instalación de tu proyecto.
+
+## 🤝 Contribución
+
+Escribe aquí cómo otros pueden contribuir a tu proyecto.
