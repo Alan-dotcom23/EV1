@@ -21,8 +21,7 @@ Por favor, **NO** crees un *Issue* público en GitHub para reportar vulnerabilid
    * Descripción del problema.
    * Pasos para reproducirlo.
    * Un bloque de código de ejemplo (si aplica):
-
+   
    ```javascript
-   // Ejemplo del punto de falla encontrado
    const hack = bypassSecurity("payload");
 Responderemos a tu reporte en un plazo máximo de 48 horas. Puedes leer más sobre buenas prácticas de reporte en OWASP.
