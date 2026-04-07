@@ -1,0 +1,25 @@
+name: Lint Markdown
+
+# Se dispara en cada push o pull request
+on:
+  push:
+  pull_request:
+
+jobs:
+  markdownlint:
+    name: Revisar sintaxis Markdown
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout: Descarga el código en el runner
+      - name: Checkout del código
+        uses: actions/checkout@v4
+
+      # 2. Markdown Lint: Ejecuta la acción oficial
+      - name: "Run Markdownlint"
+        uses: davidanson/markdownlint-cli2-action@v16
+        with:
+          # Busca automáticamente el archivo de configuración
+          config: '.markdownlint.json'
+          # Revisa todos los archivos markdown en el repositorio
+          globs: '**/*.md'
