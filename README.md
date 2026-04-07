@@ -1,4 +1,4 @@
-#  Astro Bank
+# Astro Bank
 
 ## Tabla de Contenidos
 
